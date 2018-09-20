@@ -1,0 +1,5 @@
+# add keys to delete or replace without yanking to registry
+map s "_d
+nmap s "_d
+vmap s "_d
+vnoremap P "_dp
