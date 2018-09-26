@@ -2,4 +2,4 @@
 map S "_d
 nmap S "_d
 vmap S "_d
-vnoremap P "_dp
+vnoremap P "_dP
