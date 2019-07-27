@@ -9,3 +9,7 @@ vnoremap P "_dP
 # does not work for slashes
 # suggested solution in the link does not work
 vnoremap // y/\V<C-R>"<CR>
+
+# join lines with intellij rather than ideavim
+# https://github.com/JetBrains/ideavim/wiki/%60ideajoin%60-examples
+set ideajoin
